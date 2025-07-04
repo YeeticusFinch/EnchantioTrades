@@ -1,0 +1,12 @@
+name: EnchantioTrades
+version: 1.0.0
+main: com.lerdorf.enchantiotrades.EnchantioTrades
+api-version: 1.21.6
+author: carl_alex
+description: Adds Enchantio enchants as possible villager trades
+website: fancy.lerdorf.com
+
+permissions:
+  enchantiotrades.use:
+    description: Allows players to trade for enchantio enchantments
+    default: true
